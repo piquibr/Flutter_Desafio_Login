@@ -10,12 +10,14 @@ Implementação de uma tela de login com objetivo de exercitar os conhecimentos 
 ### Passo a passo
 
 1. Clonar o repositório do github:
+```bash
     git clone https://github.com/piquibr/Flutter_Desafio_Login
-
+```
 2. Dentro da pasta clonada, instale as dependências
-    flutter pub get
-
-3. Executar o aplicativo usando o emulador do Flutter
+```bash
+   flutter pub get
+```
+4. Executar o aplicativo usando o emulador do Flutter
     ```bash
     flutter run
 ```
