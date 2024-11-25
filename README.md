@@ -18,7 +18,7 @@ Implementação de uma tela de login com objetivo de exercitar os conhecimentos 
    flutter pub get
 ```
 4. Executar o aplicativo usando o emulador do Flutter
-    ```bash
+```bash
     flutter run
 ```
 
