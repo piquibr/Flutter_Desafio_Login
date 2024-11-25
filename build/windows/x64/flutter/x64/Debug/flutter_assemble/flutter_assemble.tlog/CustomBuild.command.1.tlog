@@ -1,0 +1,28 @@
+^D:\TEMP\PIQUI\FLUTTER_DESAFIO_LOGIN\BUILD\WINDOWS\X64\CMAKEFILES\366B8FCB7F64C340D685A0F9C3557D2F\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=D:\Downloads\flutter PROJECT_DIR=D:\Temp\piqui\Flutter_Desafio_Login FLUTTER_ROOT=D:\Downloads\flutter FLUTTER_EPHEMERAL_DIR=D:\Temp\piqui\Flutter_Desafio_Login\windows\flutter\ephemeral PROJECT_DIR=D:\Temp\piqui\Flutter_Desafio_Login FLUTTER_TARGET=D:\Temp\piqui\Flutter_Desafio_Login\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Temp\piqui\Flutter_Desafio_Login\.dart_tool\package_config.json D:/Downloads/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\TEMP\PIQUI\FLUTTER_DESAFIO_LOGIN\BUILD\WINDOWS\X64\CMAKEFILES\880A792C60CF016FE2E49A6A15BBAA72\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\TEMP\PIQUI\FLUTTER_DESAFIO_LOGIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Temp/piqui/Flutter_Desafio_Login/windows -BD:/Temp/piqui/Flutter_Desafio_Login/build/windows/x64 --check-stamp-file D:/Temp/piqui/Flutter_Desafio_Login/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
