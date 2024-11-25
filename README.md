@@ -20,5 +20,5 @@ Implementação de uma tela de login com objetivo de exercitar os conhecimentos 
 
 ### Dados do Aluno
 
-- [Aluno: Daividson Piqui](https://www.linkedin.com/in/dpiqui/)
+- [Aluno: Daividson Piqui - 822226778 ](https://www.linkedin.com/in/dpiqui/)
 - [Meu GitHub](https://github.com/piquibr/)
