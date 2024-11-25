@@ -16,9 +16,11 @@ Implementação de uma tela de login com objetivo de exercitar os conhecimentos 
     flutter pub get
 
 3. Executar o aplicativo usando o emulador do Flutter
+    ```bash
     flutter run
+```
 
 ### Dados do Aluno
 
-- [Aluno: Daividson Piqui - 822226778 ](https://www.linkedin.com/in/dpiqui/)
+- [Aluno: RA 822226778 - Daividson Piqui](https://www.linkedin.com/in/dpiqui/)
 - [Meu GitHub](https://github.com/piquibr/)
